@@ -66,6 +66,10 @@ nav {
     width: 300px;
 }
 
+
+.Brand iframe{
+}
+
 .TOS {
     Border: #F5167E 5px solid;
     border-radius: 10px;
@@ -125,4 +129,8 @@ button:hover{
 
 button{
     transition:1s;
+}
+
+li {
+    padding-bottom:25px;
 }
